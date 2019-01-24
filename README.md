@@ -8,6 +8,7 @@ Unleashing the real power of Core Data with the elegance and safety of Swift
 <a href="https://travis-ci.org/JohnEstropia/CoreStore"><img alt="Build Status" src="https://img.shields.io/travis/JohnEstropia/CoreStore/master.svg?style=flat" /></a>
 <a href="http://cocoadocs.org/docsets/CoreStore"><img alt="Platform" src="https://img.shields.io/cocoapods/p/CoreStore.svg?style=flat" /></a>
 <a href="https://raw.githubusercontent.com/JohnEstropia/CoreStore/master/LICENSE"><img alt="License" src="https://img.shields.io/cocoapods/l/CoreStore.svg?style=flat" /></a>
+<a href="https://app.fossa.io/projects/git%2Bgithub.com%2FJohnEstropia%2FCoreStore?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.io/api/projects/git%2Bgithub.com%2FJohnEstropia%2FCoreStore.svg?type=shield"/></a>
 <br /><br />Dependency managers<br />
 <a href="https://cocoapods.org/pods/CoreStore"><img alt="Cocoapods compatible" src="https://img.shields.io/cocoapods/v/CoreStore.svg?style=flat&label=Cocoapods" /></a>
 <a href="https://github.com/Carthage/Carthage"><img alt="Carthage compatible" src="https://img.shields.io/badge/Carthage-compatible-16a085.svg?style=flat" /></a>
@@ -1907,3 +1908,6 @@ I'd love to hear about apps using CoreStore. Send me a message and I'll welcome 
 # License
 CoreStore is released under an MIT license. See the [LICENSE](https://raw.githubusercontent.com/JohnEstropia/CoreStore/master/LICENSE) file for more information
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJohnEstropia%2FCoreStore.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJohnEstropia%2FCoreStore?ref=badge_large)
